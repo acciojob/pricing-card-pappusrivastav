@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+#hi{
+	width:250px;
+	padding:20px 70px;
+	background-color:aqua;
+	box-shadow:20px;
+	text-align:center;
+}
+img{
+	width: 300px;
+	margin-right:50px;
+}
+
+p{
+	text-align:center;
+	font-size:30px
+	
+	
+}
+h1{
+	
+	font-weight:50px;
+}
+
+#sub{
+	background-color:red;
+/* 	text-align:center; */
+	color:white;
+	border:1px solid;
+	padding:20px;
+	border-radius:20px;
+}
+/* 	border-radius:10px; */
+/* 	padding:10px; */
+
+/* .h1{
+	background-color:aqua;
+}
+ */
